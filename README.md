@@ -23,6 +23,10 @@ N protein | nucleocapsid , NC | Virion assembly, IA(SARS-CoV), <br>Viral suppres
 E protein | envelope | Virion assembly,Viroporin(SARS-CoV)
 M protein | membrane | Virion assembly, IA(MERS) | no high-q model, Rosetta
 
+
+The detailed information about proteins 
+![SARS/MERS](./info/file_targets2016fig1.jpg)
+
 ## Useful links 
 * [Targeting 2019-nCoV Portal](https://ghddi-ailab.github.io/Targeting2019-nCoV/)
 * [SWISS-MODEL SARS-CoV-2 Homology Models](https://swissmodel.expasy.org/repository/species/2697049)
