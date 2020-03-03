@@ -21,7 +21,7 @@ RdRp | RNA-dependent(directed) RNA polymerase, NSP12 | Viral replication and tra
 Hel | Helicase, NSP13 | Viral replication 
 N protein | nucleocapsid , NC | Virion assembly, IA(SARS-CoV), <br>Viral suppressor of RNA silencing (SARS) | low coverage, Rosetta 
 E protein | envelope | Virion assembly,Viroporin(SARS-CoV)
-M protein | membrane | Virion assembly, IA(MERS) | no high-q model
+M protein | membrane | Virion assembly, IA(MERS) | no high-q model, Rosetta
 
 ## Useful links 
 * [Targeting 2019-nCoV Portal](https://ghddi-ailab.github.io/Targeting2019-nCoV/)
